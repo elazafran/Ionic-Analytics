@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1033310925703-schdiihf7qrobjnoai47k08888v9dhfs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1033310925703-schdiihf7qrobjnoai47k08888v9dhfs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC53Vwdxfkg-t2al3ukIfp1n6C7Igo_1qQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1033310925703</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.acuam.pacientalia</string>
+	<key>PROJECT_ID</key>
+	<string>pacientalia-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pacientalia-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1033310925703:ios:1cae96a0ff6c15230b9922</string>
+	<key>DATABASE_URL</key>
+	<string>https://pacientalia-app.firebaseio.com</string>
+</dict>
+</plist>

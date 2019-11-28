@@ -9,6 +9,12 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
+import { GoogleAnalytics } from '@ionic-native/google-analytics/ngx';
+
+// import { FirebaseAnalytics } from '@ionic-native/firebase-analytics/ngx';
+import { OneSignal } from '@ionic-native/onesignal/ngx';
+
+
 @NgModule({
   declarations: [AppComponent],
   entryComponents: [],
@@ -20,6 +26,8 @@ import { AppRoutingModule } from './app-routing.module';
   providers: [
     StatusBar,
     SplashScreen,
+    GoogleAnalytics,
+    OneSignal,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   bootstrap: [AppComponent]

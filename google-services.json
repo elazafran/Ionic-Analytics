@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033310925703",
+    "firebase_url": "https://pacientalia-app.firebaseio.com",
+    "project_id": "pacientalia-app",
+    "storage_bucket": "pacientalia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033310925703:android:21c209642a60542f0b9922",
+        "android_client_info": {
+          "package_name": "com.acuam.pacientalia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033310925703-13q4ceuqitkntnsfrmbohmec21782s6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsg_awhJGPtWnSGugNiKaBo3M71U7Q-Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033310925703-13q4ceuqitkntnsfrmbohmec21782s6f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033310925703-schdiihf7qrobjnoai47k08888v9dhfs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acuam.pacientalia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
